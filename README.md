@@ -1,5 +1,5 @@
 # -Prison-Management-System-
-📌 Features
+##📌 Features
 👤 Inmate Management
 Add, update, and track inmate records, including sentence details, behavioral reports, and parole status.
 
